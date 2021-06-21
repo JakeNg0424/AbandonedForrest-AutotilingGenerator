@@ -5,6 +5,4 @@
 
 **Codes**: You can change the world using the `reseed` button or by editing the map editor. The `b` represents abandoned buildings, the `w` represents the walkway between the two buildings, and the `_` (underscore symbol) represents the dark forest littered with trees.
 
-**Life**: Blue particles animation to add the dreariness of the lonely forrest. 
-
-(using tiles from [Micro Tileset - Overworld & Dungeon](https://thkaspar.itch.io/micro-tileset-overworld-dungeon) by [thkaspar](https://thkaspar.itch.io/))
+**Life**: Blue particles animation to add the dreariness of the lonely forrest.
